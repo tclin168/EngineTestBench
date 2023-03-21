@@ -5,7 +5,7 @@ Topic: Applications of optical sensors on a PLC-based engine test bench for spee
 measurement and direction recognition
 
 Tasks:
-• Built a voltage divider circuit, soldered the optical sensors on the engine test bench
+1. Built a voltage divider circuit, soldered the optical sensors on the engine test bench
 and measured the output PWM (Pulse width modulation) displayed on oscilloscope
 
-• Calculated the motor speed, cycle time, direction detection
+2. Calculated the motor speed, cycle time, direction detection
